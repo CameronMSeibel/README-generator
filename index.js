@@ -18,7 +18,7 @@ const questions = [
     },
     {
         name: "usage",
-        message: "Please provide usage information for your project."
+        message: "Please provide instructions on how to use your program."
     },
     {
         name: "contribution",
@@ -27,6 +27,14 @@ const questions = [
     {
         name: "tests",
         message: "Please provide test instructions for your project."
+    },
+    {
+        name: "github",
+        message: "Please provide your GitHub username."
+    },
+    {
+        name: "email",
+        message: "Please provide your email."
     },
     {
         type: "list",
