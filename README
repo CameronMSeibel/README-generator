@@ -1,0 +1,32 @@
+# README Generator
+	
+## Description
+
+README Generator is a lightweight script to help automate the process of writing 
+detailed, descriptive README files for projects on GitHub (or elsewhere). It is 
+a JavaScript program utilising the Inquirer CLI, ran in the node JavaScript 
+runtime environment.
+
+## Table of Contents
+
+- [Installation](#installation)
+- [Usage](#usage)
+- [Questions](#questions)
+
+## Installation
+
+To install, clone this repository and install the dependent packages with node 
+package manager. Node is required to run this application.
+
+## Usage
+
+To use this program, navigate to the directory where the application is installed,
+and run `node index.js` to open the command line interface. Respond to the prompts
+to create a high-quality README file. An example of the program's output is included
+under the `example` directory in this repository. For a more in-depth guide refer to
+[this video](https://youtu.be/iVy6ePD-Foc).
+
+## Questions
+
+I can be found on GitHub [here](https://github.com/CameronMSeibel).
+If you have any questions, I can be reached at cam.m.seib@gmail.com
