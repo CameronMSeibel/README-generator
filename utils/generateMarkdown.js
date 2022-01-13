@@ -39,6 +39,7 @@ ${data.description}
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [Tests](#tests)
+- [Questions](#questions)
 ${renderLicenseLink(data.license)}
 
 ## Installation
@@ -56,6 +57,11 @@ ${data.contribution}
 ## Tests
 
 ${data.tests}
+
+## Questions
+
+I can be found on GitHub [here](https://github.com/${data.github}).
+If you have any questions, I can be reached at ${data.email}
 
 ${renderLicenseSection(data.license)}
 `;
